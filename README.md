@@ -31,6 +31,7 @@ streamlit run main.py
 
 - The FAISS index will be saved in a local file path in pickle format for future use.
 - One can now ask a question and get the answer based on those articles
+  Compatibility: Python version 3.9
 
 ## Project Structure
 
